@@ -1,2 +1,2 @@
 # txt-editor
-a txt editor that let u to write and save ur txt 
+a txt editor with java that let u to write and save ur text on .txt files
